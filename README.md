@@ -1,11 +1,18 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,25:16213e,50:0f3460,75:203a43,100:2c5364&height=260&section=header&text=Ishan%20Gite&fontSize=48&fontAlignY=35&desc=solving%20problems%20i%20probably%20should%20have%20avoided&descAlignY=55&animation=fadeIn" />
 
 <p align="center">
+  <img src="https://github.com/IshanGite.png" width="120" height="120" style="border-radius:50%;border:3px solid #00BFFF;" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&color=00BFFF&center=true&vCenter=true&width=900&lines=building+systems+that+refuse+to+crash;working+on+projects+people+call+impossible;shipping+real+systems+independently;turning+ambitious+ideas+into+working+infrastructure;learning+aggressively+every+day" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=IshanGite&label=visitors&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/IshanGite?label=followers&style=flat&color=0e75b6" />
+  <a href="https://www.linkedin.com/in/ishan-gite-9058862bb/"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:gite.ishan@gmail.com"><img src="https://img.shields.io/badge/Email-reach%20out-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -212,57 +219,74 @@ Real-time AR clothing system
 
 # tech stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,react,nextjs,nodejs,fastapi,flask,tensorflow,pytorch" />
-</p>
-
----
-
-# full tech stack badges
+<div align="center">
 
 ### languages
 
-![Python](https://img.shields.io/badge/Python-Advanced-blue)
-![C++](https://img.shields.io/badge/C++-Advanced-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-yellow)
-![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-blue)
-![Solidity](https://img.shields.io/badge/Solidity-Blockchain-black)
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,solidity,dart" /><br/>
+![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-Advanced-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-Blockchain-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
-### machine learning
+<br/>
 
-![PyTorch](https://img.shields.io/badge/PyTorch-Deep_Learning-red)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-ML-orange)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-blue)
-![OpenCV](https://img.shields.io/badge/OpenCV-Computer_Vision-green)
+### machine learning & computer vision
 
-### backend
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" /><br/>
+![PyTorch](https://img.shields.io/badge/PyTorch-Deep_Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLOv8-Object_Detection-00FFFF?style=for-the-badge)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-AR_Tracking-0097A7?style=for-the-badge&logo=google&logoColor=white)
 
-![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)
-![Node.js](https://img.shields.io/badge/Node.js-Backend-brightgreen)
-![Kafka](https://img.shields.io/badge/Kafka-Streaming-black)
+<br/>
 
-### cloud
+### backend & data
 
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
-![Docker](https://img.shields.io/badge/Docker-Container-blue)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue)
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,flask,kafka,redis,postgres,mongodb,neo4j" /><br/>
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-Streaming-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-Graph_DB-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-Database-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-Cache-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+<br/>
+
+### cloud & infrastructure
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,nginx,git,github" /><br/>
+![AWS](https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Container-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-OS-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-Web_Server-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+</div>
 
 ---
 
 # github stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=IshanGite&show_icons=true&theme=tokyonight" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=IshanGite&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshanGite&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 # streak stats
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=IshanGite&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=IshanGite&theme=tokyonight&hide_border=true" />
 </p>
 
+# trophies
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshanGite&layout=compact&theme=tokyonight" />
+<img src="https://github-profile-trophy.vercel.app/?username=IshanGite&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -270,7 +294,7 @@ Real-time AR clothing system
 # activity graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IshanGite&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=IshanGite&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -370,4 +394,6 @@ or just open an issue.
 
 ---
 
-the next system starts tomorrow.
+<p align="center">the next system starts tomorrow.</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,25:203a43,50:0f3460,75:16213e,100:1a1a2e&height=100&section=footer" />
