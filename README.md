@@ -1,373 +1,261 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,25:16213e,50:0f3460,75:203a43,100:2c5364&height=260&section=header&text=Ishan%20Gite&fontSize=48&fontAlignY=35&desc=solving%20problems%20i%20probably%20should%20have%20avoided&descAlignY=55&animation=fadeIn" />
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&color=00BFFF&center=true&vCenter=true&width=900&lines=building+systems+that+refuse+to+crash;working+on+projects+people+call+impossible;shipping+real+systems+independently;turning+ambitious+ideas+into+working+infrastructure;learning+aggressively+every+day" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,25:16213e,50:0f3460,75:203a43,100:2c5364&height=280&section=header&text=Ishan%20Gite&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=solving%20problems%20i%20probably%20should%20have%20avoided&descAlignY=55&descColor=00BFFF&animation=fadeIn"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=IshanGite&label=visitors&color=0e75b6&style=flat" />
-</p>
+<img src="https://github.com/IshanGite.png" width="130" height="130" style="border-radius:50%;border:3px solid #00BFFF;margin-top:-70px;"/>
 
----
+<br/><br/>
 
-## appreciate the drop by
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=800&color=00BFFF&center=true&vCenter=true&width=800&lines=building+systems+that+refuse+to+crash;working+on+projects+people+call+impossible;shipping+real+systems+independently;turning+ambitious+ideas+into+working+infrastructure;learning+aggressively+every+day"/>
 
-i'm ishan.
+<br/>
 
-i build systems that make decisions, surface patterns, and occasionally prove that chaos is just data waiting to be modeled.
+<img src="https://komarev.com/ghpvc/?username=IshanGite&label=visitors&color=0e75b6&style=flat-square"/>
+<img src="https://img.shields.io/github/followers/IshanGite?label=followers&style=flat-square&color=0e75b6"/>
+<a href="https://www.linkedin.com/in/ishan-gite-9058862bb/"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:gite.ishan@gmail.com"><img src="https://img.shields.io/badge/Email-reach%20out-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 
-i’m drawn to problems where software meets reality — where latency matters, correctness matters, and failure has consequences beyond a stack trace.
-
-the kind of systems that don’t just run —  
-they **borderline show off.**
+</div>
 
 ---
 
-# what i'm working on right now
+<div align="center">
 
-## fintech
+### appreciate the drop by
 
-building systems that reconcile transactions faster than humans can panic.
+</div>
 
-designing pipelines that detect anomalies, trace money flows, and explain exactly what happened — before someone asks uncomfortable questions.
+i'm ishan. i build systems that make decisions, surface patterns, and occasionally prove that chaos is just data waiting to be modeled.
 
-because in finance:
+i'm drawn to problems where software meets reality — where latency matters, correctness matters, and failure has consequences beyond a stack trace.
 
-precision is not optional  
-latency is expensive  
-and bugs have lawyers
+the kind of systems that don't just run — they **borderline show off.**
 
-i like building systems that auditors trust and engineers sleep peacefully with.
+<br/>
 
----
+## 🧭 what i'm working on right now
 
-## healthcare tech
+<table>
+<tr><td width="60px" align="center">💳</td><td>
 
-training models that predict risk, simulate outcomes, and quietly prevent problems before they become emergencies.
+**fintech** — building systems that reconcile transactions faster than humans can panic. designing pipelines that detect anomalies, trace money flows, and explain exactly what happened before someone asks uncomfortable questions. in finance: precision is not optional, latency is expensive, and bugs have lawyers. i like building systems that auditors trust and engineers sleep peacefully with.
 
-working toward a future where healthcare feels less like crisis management and more like continuous monitoring.
+</td></tr>
+<tr><td align="center">🩺</td><td>
 
-where data doesn't just describe the past —  
-it actively protects the future.
+**healthcare tech** — training models that predict risk, simulate outcomes, and quietly prevent problems before they become emergencies. working toward a future where healthcare feels less like crisis management and more like continuous monitoring — where data doesn't just describe the past, it actively protects the future. turns out saving milliseconds in software is satisfying. saving lives with software is better.
 
-turns out saving milliseconds in software is satisfying.  
-saving lives with software is better.
+</td></tr>
+<tr><td align="center">🚀</td><td>
 
----
+**entrepreneurship** — turning prototypes into products and ideas into infrastructure. learning how to build things that survive real users, real scale, real chaos. shipping systems that don't just run — they keep running. code is interesting, systems are useful, businesses are sustainable.
 
-## entrepreneurship
+</td></tr>
+<tr><td align="center">🛰️</td><td>
 
-turning prototypes into products and ideas into infrastructure.
+**spacetech** — studying systems that operate where debugging is impossible and failure is extremely public. limited power, limited bandwidth, zero tolerance for mistakes. it's where software stops being software and starts being survival equipment. one day, i want to build systems that run somewhere very far away — and still behave perfectly.
 
-learning how to build things that survive:
+</td></tr>
+<tr><td align="center">🏎️</td><td>
 
-real users  
-real scale  
-real chaos  
+**cars** — obsessed with performance, mechanical and computational. engines, telemetry, control systems, optimization. cars are high-speed physics experiments wrapped in metal, and they reward discipline, precision, and respect for fundamentals — the same principles that make reliable software. also, horsepower is just another performance metric.
 
-shipping systems that don't just run —  
-they keep running.
+</td></tr>
+<tr><td align="center">🏋️</td><td>
 
-because code is interesting.  
-systems are useful.  
-businesses are sustainable.
+**training** — building a strong physique using the same methodology used to build resilient systems: progressive overload, consistent execution, measured improvement. no shortcuts, no magic frameworks, no skipped reps. strong systems and strong bodies are built the same way — slowly, deliberately, repeatedly.
 
----
+</td></tr>
+<tr><td align="center">☕</td><td>
 
-## spacetech
+**coffee** — not a beverage, an operational requirement. most distributed systems fail due to network issues. mine usually fail due to insufficient caffeine. fortunately, both problems are solvable.
 
-studying systems that operate where debugging is impossible and failure is extremely public.
+</td></tr>
+</table>
 
-space is the purest engineering environment:
+<br/>
 
-limited power  
-limited bandwidth  
-zero tolerance for mistakes  
-
-it’s where software stops being software  
-and starts being survival equipment.
-
-one day, i want to build systems that run somewhere very far away —  
-and still behave perfectly.
-
----
-
-## cars
-
-obsessed with performance — mechanical and computational.
-
-engines, telemetry, control systems, optimization.
-
-cars are essentially high-speed physics experiments wrapped in metal.
-
-they reward:
-
-discipline  
-precision  
-respect for fundamentals  
-
-the same principles that make reliable software.
-
-also, horsepower is just another performance metric.
-
----
-
-## training
-
-building a strong physique using the same methodology used to build resilient systems:
-
-progressive overload  
-consistent execution  
-measured improvement  
-
-no shortcuts  
-no magic frameworks  
-no skipped reps  
-
-just disciplined iteration.
-
-strong systems and strong bodies are built the same way:
-
-slowly  
-deliberately  
-and repeatedly.
-
----
-
-## coffee
-
-coffee is not a beverage.
-
-it's an operational requirement.
-
-most distributed systems fail due to network issues.
-
-mine usually fail due to insufficient caffeine.
-
-fortunately, both problems are solvable.
-
----
-
-# type of things i build (for fun lemme lock in)
-
-## project highlights
+## 🛠️ type of things i build (for fun, lemme lock in)
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### Chronos  
-AI-powered surveillance and behavioral analytics  
-
-**Stack:** YOLOv8 • DeepSORT • FastAPI  
+### 🎥 Chronos
+AI-powered surveillance and behavioral analytics.
+<br/>
+`YOLOv8` `DeepSORT` `FastAPI`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### Vectra  
-Financial reconciliation and anomaly detection  
-
-**Stack:** Kafka • Neo4j • PyTorch  
+### 💰 Vectra
+Financial reconciliation and anomaly detection.
+<br/>
+`Kafka` `Neo4j` `PyTorch`
 
 </td>
 </tr>
-
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### Digital Twin  
-Cardiovascular disease prediction system  
-
-**Stack:** Machine Learning  
+### 🫀 Digital Twin
+Cardiovascular disease prediction system.
+<br/>
+`Machine Learning`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### Virtual Try-On  
-Real-time AR clothing system  
-
-**Stack:** OpenCV • MediaPipe  
+### 👕 Virtual Try-On
+Real-time AR clothing system.
+<br/>
+`OpenCV` `MediaPipe`
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-# research & publications
+## 📄 research & publications
 
-- Prenatal Health Log System  
-- Cardiovascular Disease Prediction, Progression and Prevention using ML  
-- Brain Tumor Detection and Evolution in MRI scans using Deep Learning  
+- Prenatal Health Log System
+- Cardiovascular Disease Prediction, Progression and Prevention using ML
+- Brain Tumor Detection and Evolution in MRI scans using Deep Learning
 
----
+<br/>
 
-# deployment & infrastructure
+## ☁️ deployment & infrastructure
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,nginx,git,github,postgres,mongodb,redis" />
-</p>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,nginx,git,github,postgres,mongodb,redis"/>
+</div>
 
----
+<br/>
 
-# tech stack
+## 💻 tech stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,react,nextjs,nodejs,fastapi,flask,tensorflow,pytorch" />
-</p>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,react,nextjs,nodejs,fastapi,flask,tensorflow,pytorch"/>
+</div>
 
----
+<br/>
 
-# full tech stack badges
+<details>
+<summary><b>full tech stack badges (click to expand)</b></summary>
 
-### languages
+<br/>
 
-![Python](https://img.shields.io/badge/Python-Advanced-blue)
-![C++](https://img.shields.io/badge/C++-Advanced-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-yellow)
-![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-blue)
-![Solidity](https://img.shields.io/badge/Solidity-Blockchain-black)
+**languages**
+<br/>
+![Python](https://img.shields.io/badge/Python-Advanced-blue?style=flat-square)
+![C++](https://img.shields.io/badge/C++-Advanced-blue?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-yellow?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-blue?style=flat-square)
+![Solidity](https://img.shields.io/badge/Solidity-Blockchain-black?style=flat-square)
 
-### machine learning
+**machine learning**
+<br/>
+![PyTorch](https://img.shields.io/badge/PyTorch-Deep_Learning-red?style=flat-square)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-ML-orange?style=flat-square)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-blue?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer_Vision-green?style=flat-square)
 
-![PyTorch](https://img.shields.io/badge/PyTorch-Deep_Learning-red)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-ML-orange)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-blue)
-![OpenCV](https://img.shields.io/badge/OpenCV-Computer_Vision-green)
+**backend**
+<br/>
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green?style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-Backend-brightgreen?style=flat-square)
+![Kafka](https://img.shields.io/badge/Kafka-Streaming-black?style=flat-square)
 
-### backend
+**cloud**
+<br/>
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-Container-blue?style=flat-square)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?style=flat-square)
 
-![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)
-![Node.js](https://img.shields.io/badge/Node.js-Backend-brightgreen)
-![Kafka](https://img.shields.io/badge/Kafka-Streaming-black)
+</details>
 
-### cloud
+<br/>
 
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
-![Docker](https://img.shields.io/badge/Docker-Container-blue)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue)
+## 📊 github stats
 
----
+<div align="center">
 
-# github stats
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=IshanGite&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshanGite&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=IshanGite&show_icons=true&theme=tokyonight" />
-</p>
+<br/>
 
-# streak stats
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=IshanGite&theme=tokyonight&hide_border=true"/>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=IshanGite&theme=tokyonight" />
-</p>
+<br/>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshanGite&layout=compact&theme=tokyonight" />
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=IshanGite&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
----
+</div>
 
-# activity graph
+<br/>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IshanGite&theme=tokyo-night" />
-</p>
+## 📈 activity graph
 
----
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=IshanGite&theme=tokyo-night&hide_border=true"/>
+</div>
 
-# where i'm headed
+<br/>
 
-i want to build systems that matter.
+## 🧭 where i'm headed
 
-not just code that runs —  
-systems that people depend on.
+i want to build systems that matter — not just code that runs, systems that people depend on.
 
----
+<table>
+<tr><td width="60px" align="center">💳</td><td>
 
-## fintech
+**fintech** — working toward building financial infrastructure that is fast, transparent, and impossible to break. the kind of systems that move money safely, detect risk early, and keep running even when everything else is uncertain. finance isn't just about numbers — it's about trust.
 
-working toward building financial infrastructure that is:
+</td></tr>
+<tr><td align="center">🔥</td><td>
 
-fast  
-transparent  
-and impossible to break  
+**building ambitious things** — i want to work on projects that feel slightly uncomfortable. the ones that stretch skills, test patience, and demand discipline. the kind of problems that make you better simply by attempting them. not chasing hype — chasing capability.
 
-the kind of systems that move money safely, detect risk early, and keep running even when everything else is uncertain.
+</td></tr>
+<tr><td align="center">🚀</td><td>
 
-because finance is not just about numbers.  
-it's about trust.
+**entrepreneurship** — long term, i want to build products that stand on their own. systems people choose to use, companies that solve real problems, technology that earns its place in the world. not just launching ideas — building things that last.
 
----
+</td></tr>
+<tr><td align="center">🧠</td><td>
 
-## building ambitious things
+**technology philosophy** — reliability over cleverness, consistency over intensity, execution over intention. small improvements, repeated daily.
 
-i want to work on projects that feel slightly uncomfortable.
+</td></tr>
+</table>
 
-the ones that:
+<div align="center">
 
-stretch skills  
-test patience  
-and demand discipline  
+**the goal:** to become someone who can design complex systems calmly, solve difficult problems methodically, and ship technology that works in the real world — quietly, consistently, and for a long time.
 
-the kind of problems that make you better simply by attempting them.
+</div>
 
-not chasing hype.  
-chasing capability.
+<br/>
 
----
+## 📬 contact
 
-## entrepreneurship
+<div align="center">
 
-long term, i want to build products that stand on their own.
-
-systems that people choose to use.  
-companies that solve real problems.  
-technology that earns its place in the world.
-
-not just launching ideas —  
-building things that last.
-
----
-
-## technology philosophy
-
-i believe the future belongs to builders who focus on:
-
-reliability over cleverness  
-consistency over intensity  
-execution over intention  
-
-small improvements, repeated daily.
-
----
-
-## the goal
-
-to become someone who can:
-
-design complex systems calmly  
-solve difficult problems methodically  
-and ship technology that works in the real world
-
-quietly  
-consistently  
-and for a long time.
-
----
-
-# contact
-
-LinkedIn  
-https://www.linkedin.com/in/ishan-gite-9058862bb/
-
-Email  
-gite.ishan@gmail.com
-
-GitHub  
-https://github.com/IshanGite
+<a href="https://www.linkedin.com/in/ishan-gite-9058862bb/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:gite.ishan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/IshanGite"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 or just open an issue.
 
----
+</div>
 
-the next system starts tomorrow.
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,25:203a43,50:0f3460,75:16213e,100:1a1a2e&height=120&section=footer"/>
+
+<i>the next system starts tomorrow.</i>
+</div>
